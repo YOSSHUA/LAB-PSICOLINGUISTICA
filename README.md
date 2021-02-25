@@ -29,7 +29,7 @@ Para el proyecto se utilizaron las versiones de 2013, entonces puedes utilizar c
 ##  Configuración del proyecto
 
 ###  1. Configuración de MySQLWorkbench
-1. Primero debes configurar lo necesario en MySQLWorkbench para poder manipular la base de datos. [Tutorial](https://www.ecodeup.com/aprende-a-instalar-mysql-y-mysql-workbench-en-windows-10/)
+1. Primero debes configurar lo necesario en MySQLWorkbench para poder manipular la base de datos. [Ver tutorial](https://www.ecodeup.com/aprende-a-instalar-mysql-y-mysql-workbench-en-windows-10/)
 ### 2. Importación de la base de datos
 1. Descarga el archivo de la base de datos [aquí](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/tree/master/bd).
 2. Abre MySQLWorkbench.
