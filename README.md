@@ -38,8 +38,7 @@ Para el proyecto se utilizaron las versiones de 2013, entonces puedes utilizar c
 ###  3. Configuración de Visual Studio
 1.  Abre Visual Studio.
 2.  Clona el repositorio del proyecto. [Ver ejemplo](https://docs.microsoft.com/en-us/visualstudio/ide/git-with-visual-studio?view=vs-2019)
-3. Genera un ejecutable dando clic a *Construir solución* 
-![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/build.PNG?raw=true =750x350)
+3. Genera un ejecutable dando clic a *Construir solución* ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/build.PNG?raw=true =750x350)
 
 
 Ya se configuró todo y está listo para usarse.
