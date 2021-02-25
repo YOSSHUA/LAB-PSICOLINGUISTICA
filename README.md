@@ -1,6 +1,6 @@
 
 # Normas de asociación de palabras (NAP)
-Este software sirve para calcular diversas medidas de asociación de palabras a partir de los resultados de experimentos en los que las personas reciben palabras estímulo y generan una respuesta.  El proyectado está implementado en Windows Forms con C# y con bases de datos relacionales con MySQL.
+Este software sirve para calcular diversas medidas de asociación de palabras a partir de los resultados de experimentos en los que las personas reciben palabras estímulo y generan una respuesta.  El proyecto está implementado en Windows Forms con C# y con bases de datos relacionales con MySQL.
 
 ##  Contenido
 * [Información general](#información-general)
