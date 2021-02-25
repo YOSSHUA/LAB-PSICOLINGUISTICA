@@ -41,7 +41,7 @@ Para el proyecto se utilizaron las versiones de 2013, entonces puedes utilizar c
 3. Genera un ejecutable dando clic a *Construir solución* 
 
 
-![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/build.PNG?raw=true =750x350)
+![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/build.PNG?raw=true)
 
 
 Ya se configuró todo y está listo para usarse.
