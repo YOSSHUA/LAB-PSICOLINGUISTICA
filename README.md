@@ -79,7 +79,7 @@ Si quieres ver toda la información puedes dar clic al botón que dice *Buscar t
 El proyecto no se encuentra en desarrollo, pero se puede editar para evaluar diferentes bases de datos. 
 
 ## Motivación
-Este proyecto se desarrollo como parte del Programa Delfín 2018 en el Verano de Investigación para el Laboratorio de Psicolingüística de la UNAM. [Conocer más sobre el laboratorio](http://www.labpsicolinguistica.psicol.unam.mx/index.html).
+Este proyecto se desarrolló como parte del Programa Delfín 2018 en el Verano de Investigación para el Laboratorio de Psicolingüística de la UNAM. [Conocer más sobre el laboratorio](http://www.labpsicolinguistica.psicol.unam.mx/index.html).
 
 ## Contacto
 Cualquier duda y/o comentario puedes contactarme a través de mi correo: yocisneros@outlook.com 
