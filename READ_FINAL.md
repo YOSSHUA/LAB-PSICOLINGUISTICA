@@ -58,7 +58,7 @@ En la sección de *Descarga de excel de medidas porcentuales* puedes bajar el ar
 
 ### <a id="consm"></a> Consulta de medidas porcentuales
 En la parte superior izquierda de la ventana encontrarás el menú para filtrar los datos. 
-En la parte inferior izquierda de la ventana puedes encontrar los botones para mostrar la información de los distintos elementos que se usan en la pantalla
+En la parte inferior izquierda de la ventana puedes encontrar los botones para mostrar la información de los distintos elementos que se usan en la pantalla como se muestra a continuación:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opc.PNG?raw=true )
 Una vez que seleccionas la opción te va a pedir datos diferente según lo necesario para la clasificación. Por ejemplo, si incluyes la edad te pide el rango de edades que quieres incluir como se muestra en la siguiente imagen:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opcs.PNG?raw=true )
@@ -72,7 +72,7 @@ Finalmente del lado derecho aparecen las diferentes medidas calculadas.
 Observa que puedes exportar en un archivo de Excel todas las medidas para cada palabra de la base de datos dadas las características que seleccionaste.
 ### <a id="cons"></a> Consulta de datos por ID
 En esta sección puedes seleccionar el ID de la persona y te aparecerán los resultados de su prueba al dar clic en *Buscar ID*. 
-Si quieres ver toda la información puedes dar clic al botón que dice *Buscar todos los ID'S*.
+Si quieres ver toda la información puedes dar clic al botón que dice *Buscar todos los ID'S* como se observa en la siguiente imagen:
 
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/cons.PNG?raw=true )
 
