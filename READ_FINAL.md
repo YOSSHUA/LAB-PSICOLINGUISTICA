@@ -12,7 +12,7 @@ Este software sirve para calcular diversas medidas de asociación de palabras a 
 * [Contacto](#contacto)
 
 ## Información general
-El software sirve para realizar consultas a las bases de datos de los resultados de los experimentos. Además, puedes generar nuevos cálculos según los requerimientos de tus experimentos. Todos los resultados pueden exportarse de forma automática a una hoja de Excel. Por ejemplo, los datos se pueden consultar de forma agrupada según las siguientes opciones y sus diferentes combinaciones :
+El software sirve para realizar consultas personalizadas a las bases de datos de los resultados de los experimentos y pueden exportarse de forma automática a una hoja de Excel. Por ejemplo, los datos se pueden consultar de forma agrupada según las siguientes opciones y sus diferentes combinaciones :
 
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/diag.PNG?raw=true)
 
@@ -50,6 +50,7 @@ Ya se configuró todo y está listo para usarse.
 Una vez que configuraste todo lo necesario basta con ejecutar el archivo desde Visual Studio, o bien, puedes tomar el proyecto y modificarlo para tus experimentos.
 
 ### Página principal
+En la ventana principal encontrarás esta pantalla:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/index.PNG?raw=true )
 En la sección de [Consultar medidas porcentuales](#consm) podrás generar tus propios archivos a partir de la base de datos.
 En la sección de [Consulta de datos por ID](#cons) podrás consultar los resultados de los participantes.
@@ -59,7 +60,7 @@ En la sección de *Descarga de excel de medidas porcentuales* puedes bajar el ar
 En la parte superior izquierda de la ventana encontrarás el menú para filtrar los datos. 
 En la parte inferior izquierda de la ventana puedes encontrar los botones para mostrar la información de los distintos elementos que se usan en la pantalla.
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opc.PNG?raw=true )
-Una vez que seleccionas la opción te va a pedir datos diferente según lo necesario para la clasificación. Por ejemplo, si incluyes la edad te pide el rango de edades que quieres incluir.
+Una vez que seleccionas la opción te va a pedir datos diferente según lo necesario para la clasificación. Por ejemplo, si incluyes la edad te pide el rango de edades que quieres incluir como se muestra en la siguiente imagen:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opcs.PNG?raw=true )
 
 Aquí te dejo un ejemplo de cómo será el resultado. 
