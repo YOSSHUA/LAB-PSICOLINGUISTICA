@@ -71,6 +71,7 @@ En la segunda tabla aparecen las clasificaciones por tipo de respuesta.
 Finalmente del lado derecho aparecen las diferentes medidas calculadas.
 
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/ej.PNG?raw=true )
+
 Observa que puedes exportar en un archivo de Excel todas las medidas para cada palabra de la base de datos dadas las características que seleccionaste.
 ### <a id="cons"></a> Consulta de datos por ID
 En esta sección puedes seleccionar el ID de la persona y te aparecerán los resultados de su prueba al dar clic en *Buscar ID*. 
