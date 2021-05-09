@@ -60,6 +60,7 @@ En la sección de *Descarga de excel de medidas porcentuales* puedes bajar el ar
 En la parte superior izquierda de la ventana encontrarás el menú para filtrar los datos. 
 En la parte inferior izquierda de la ventana puedes encontrar los botones para mostrar la información de los distintos elementos que se usan en la pantalla como se muestra a continuación:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opc.PNG?raw=true )
+
 Una vez que seleccionas la opción te va a pedir datos diferente según lo necesario para la clasificación. Por ejemplo, si incluyes la edad te pide el rango de edades que quieres incluir como se muestra en la siguiente imagen:
 ![alt text](https://github.com/YOSSHUA/LAB-PSICOLINGUISTICA/blob/master/others/opcs.PNG?raw=true )
 
